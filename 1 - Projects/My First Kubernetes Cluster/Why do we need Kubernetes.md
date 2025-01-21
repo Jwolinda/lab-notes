@@ -24,4 +24,7 @@
 
 Links:
 
+[[Kubernetes Fundamentals]]
+
+
 202501191548
