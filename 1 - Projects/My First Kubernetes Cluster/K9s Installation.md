@@ -20,6 +20,7 @@ Immediately available on cluster.
 Links:
 
 [[Kubernetes]]
-
+[[K9s Usage]]
+[[Kubernetes Fundamentals]]
 
 202501191348

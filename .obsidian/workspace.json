@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f429a86355651ddc",
+        "id": "5284181ca1fda1c8",
         "type": "tabs",
         "children": [
           {
-            "id": "d74f2ef9f6cf37de",
+            "id": "b4aa5e00cffe27df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Projects/My First Kubernetes Cluster/Storage.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Storage"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projects/My First Kubernetes Cluster/Storage.md",
+                "file": "3 - Resources/Gitingest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Storage"
+              "title": "Backlinks for Gitingest"
             }
           },
           {
@@ -112,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projects/My First Kubernetes Cluster/Storage.md",
+                "file": "3 - Resources/Gitingest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Storage"
+              "title": "Outgoing links from Gitingest"
             }
           },
           {
@@ -139,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projects/My First Kubernetes Cluster/Storage.md"
+                "file": "3 - Resources/Gitingest.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Storage"
+              "title": "Outline of Gitingest"
             }
           },
           {
@@ -175,33 +171,40 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d74f2ef9f6cf37de",
+  "active": "7ed0a294c076e58d",
   "lastOpenFiles": [
-    "1 - Projects/My First Kubernetes Cluster/Kubernetes API Reference.md",
-    "0 - Inbox/IMPORTANT.md",
+    "0 - Inbox/tmux.md",
+    "1 - Projects/My First Kubernetes Cluster/Untitled.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Describe Azure Virtual Machines.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Azure Containers.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Azure Functions.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Azure Virtual Desktop.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Describe Azure Compute and Networking Resources.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Application Hosting Options.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Describe Cloud Concepts.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Describe Core Architectural Components of Azure.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/What is Azure.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Describe Azure Physical Infrastructure.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Describe Azure Management Infrastructure.md",
+    "Pasted image 20250122204345.png",
+    "1 - Projects/My First Kubernetes Cluster/Helm.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/AZ 900 Training Overview.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert/Untitled.md",
+    "1 - Projects/My First Kubernetes Cluster/IMPORTANT.md",
+    "1 - Projects/AZ 900 Azure Fundamentals Cert",
+    "1 - Projects/My First Kubernetes Cluster/Prometheus.md",
+    "1 - Projects/My First Kubernetes Cluster/K9s Installation.md",
+    "1 - Projects/My First Kubernetes Cluster/K9s Usage.md",
     "1 - Projects/My First Kubernetes Cluster/Storage.md",
+    "1 - Projects/My First Kubernetes Cluster/Kubernetes API Reference.md",
     "1 - Projects/My First Kubernetes Cluster/Networking.md",
     "1 - Projects/My First Kubernetes Cluster/Kubernetes Fundamentals.md",
     "1 - Projects/My First Kubernetes Cluster/Lab-Notes Setup.md",
     "1 - Projects/My First Kubernetes Cluster/Namespaces.md",
-    "1 - Projects/My First Kubernetes Cluster/Pods.md",
-    "1 - Projects/My First Kubernetes Cluster/Pods as Code.md",
-    "1 - Projects/My First Kubernetes Cluster/Port Forwarding.md",
     "1 - Projects/My First Kubernetes Cluster/Untitled",
-    "1 - Projects/My First Kubernetes Cluster/Deployments.md",
-    "1 - Projects/My First Kubernetes Cluster/K9s Installation.md",
-    "1 - Projects/My First Kubernetes Cluster/Rancher Setup for Windows and WSL2.md",
-    "1 - Projects/My First Kubernetes Cluster/Why do we need Kubernetes.md",
-    "3 - Resources/Gitingest.md",
-    "3 - Resources/Web Scraping.md",
-    "3 - Resources/Linux/TTY.md",
     "3 - Resources/Linux",
-    "0 - Inbox/tmux.md",
-    "Templates/Zettel Template.md",
     "1 - Projects/My First Kubernetes Cluster",
-    "Untitled.md",
     "Templates",
-    "Welcome.md",
     "4 - Archive",
     "3 - Resources",
     "2 - Areas",
